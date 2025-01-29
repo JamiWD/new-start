@@ -1,0 +1,25 @@
+*{
+    /* text-align: center; */
+}
+.new{
+    text-decoration: dotted;
+}
+.for-btn{
+    border-radius: 5px;
+    color: #000;
+    /* background-color: blueviolet; */
+    
+}
+.back{
+    /* background-color: aqua; */
+    background-repeat: repeat-x;
+    /* background-position: right top; */
+}
+img{
+    background-repeat: repeat;
+    background-position: right top;
+}
+.pic{
+    background-position: right top;
+    size: 30px;
+}
